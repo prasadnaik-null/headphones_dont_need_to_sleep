@@ -6,4 +6,5 @@ plays a blank audio file on loop in the background at startup so that my headpho
 3. hide_the_cmd_prompt.vbs : a VBScript file which hides the command prompt window
 4. hide_the_cmd_prompt_vlc_background_no_audio.bat : run the original bat file and also hides the command prompt window
 5. headphones_dont_need_to_sleep.xml : the xml file of the task scheduler (windows)
+
 (location of files to be saved in : "C:\headphones_dont_need_to_sleep\")
